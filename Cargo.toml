@@ -1,0 +1,11 @@
+[package]
+name = "star"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bytemuck = "1.13.1"
+gl = "0.14.0"
+glfw = "0.52.0"
