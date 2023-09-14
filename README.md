@@ -3,7 +3,8 @@ A pretty fractal I made to practice Rust and OpenGL API. Uses a modified form of
 
 ## Building
 Prerequisites: Rust/Cargo (and OpenGL support)
-Running:
+
+To run:
 ```
 # Compile code
 cargo build --release
